@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624322268650",
+    "project_id": "friendfinder-c269d",
+    "storage_bucket": "friendfinder-c269d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624322268650:android:7095661375cd44ab3fb693",
+        "android_client_info": {
+          "package_name": "com.example.friendfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624322268650-g4ul918s0hrhd64tgl474b4u399vvsga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtFhMXVmG6YRxzUZr6P4vjhiw7z-l9dRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624322268650-g4ul918s0hrhd64tgl474b4u399vvsga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

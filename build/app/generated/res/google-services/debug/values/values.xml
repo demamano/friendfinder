@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">624322268650-g4ul918s0hrhd64tgl474b4u399vvsga.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">624322268650</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtFhMXVmG6YRxzUZr6P4vjhiw7z-l9dRU</string>
+    <string name="google_app_id" translatable="false">1:624322268650:android:7095661375cd44ab3fb693</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtFhMXVmG6YRxzUZr6P4vjhiw7z-l9dRU</string>
+    <string name="google_storage_bucket" translatable="false">friendfinder-c269d.appspot.com</string>
+    <string name="project_id" translatable="false">friendfinder-c269d</string>
+</resources>
