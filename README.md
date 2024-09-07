@@ -1,5 +1,8 @@
 # friendfinder
 
+About
+friendfinder application in flutter and firebase Flutter/Firebase platform: Create profiles, set preferences, find friends or partners easily by browsing profiles
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
